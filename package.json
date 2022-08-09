@@ -15,7 +15,7 @@
     "test": "semistandard --verbose | snazzy && mocha test/**/*.js --exit"
   },
   "node-red": {
-    "version": ">=2.0.0",
+    "version": ">=1.3.7",
     "nodes": {
       "aedes-mqtt-broker": "aedes.js"
     }
